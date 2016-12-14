@@ -1,0 +1,17 @@
+commit 7ed02c361876458caebbf9d4547bfbdfab609b20
+Author: Juan David Redondo <juandredondo@uniguajira.edu.co>
+Date:   Wed Dec 14 13:52:00 2016 -0500
+
+     al index se le agrego la imagen y a la pagina 2 se le agrego e un link de regreso al index
+
+commit 0ff91c713a7a2575da777e2525ef4c04cd0f8a91
+Author: Juan David Redondo <juandredondo@uniguajira.edu.co>
+Date:   Wed Dec 14 13:42:08 2016 -0500
+
+    agregando un h3
+
+commit 5347b4f2044feca16dcb918a00238d367d3178a5
+Author: Juan David Redondo <juandredondo@uniguajira.edu.co>
+Date:   Wed Dec 14 13:40:19 2016 -0500
+
+    se agregaron index html y pagina 2
